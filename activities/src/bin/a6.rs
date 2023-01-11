@@ -16,4 +16,5 @@ fn main() {
         println!("{:?}", i);
         i = i - 1;
     }
+    println!("done");
 }
